@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "67",
+      "name": "Vasia",
+      "avatar": "Fh",
+      "kind": "userApi#resourcesItem"
+    },
+    {
+      "id": "1523636",
+      "name": "Kate",
+      "avatar": "yueiduhd",
+      "kind": "userApi#resourcesItem"
+    }
+  ],
+  "nextPageToken": "CisSJWoVZ35pbmZyYS12ZXJ0ZXgtMTgyNzE2cgwLEgRVc2VyGLT_XAwYACAA",
+  "kind": "userApi#resources",
+  "etag": "\"R1JnbnJKwvkMCUSlBW8iLdfwRf4/dUsb-ResDYUpxvzjpQ49EtrbIhw\""
+}
